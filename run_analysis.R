@@ -1,6 +1,9 @@
 ## Clean up R memory
 rm(list=ls())
 
+## Loading dplyr
+library(dplyr)
+
 ## Set working directory
 setwd("C:/DataScience/GettingAndCleaningData/Assignments/assignment/")
 
